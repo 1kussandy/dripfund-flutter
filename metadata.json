@@ -1,0 +1,6 @@
+{
+  "name": "Optimus Staffing Hub",
+  "description": "A high-performance operations control tower dashboard for warehouse assignments, associate tracking, layout floor map, certifications and line dispatch balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
