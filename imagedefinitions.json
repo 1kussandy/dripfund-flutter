@@ -1,6 +1,6 @@
 [
   {
-    "name": "sast-task",
+    "name": "sast-container",
     "imageUri": "951364906109.dkr.ecr.us-east-1.amazonaws.com/sast-control-tower:latest"
   }
 ]
